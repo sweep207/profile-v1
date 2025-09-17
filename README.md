@@ -11,8 +11,8 @@
 
 ## 🏆 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haohaone1029&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haohaone1029&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sweep207&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweep207&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
